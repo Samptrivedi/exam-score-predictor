@@ -1,4 +1,3 @@
-Dependencies used in the Marks Predictor
 numpy
 pandas
 matplotlib
